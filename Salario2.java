@@ -9,7 +9,7 @@ public class Salario2{
 	
 	System.out.println(salarioLiquido);
 	
-	/*duvida: como fazer pegar o valor real */
+	
 	
 	
 	}
